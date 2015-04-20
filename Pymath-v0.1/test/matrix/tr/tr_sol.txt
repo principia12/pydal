@@ -1,0 +1,200 @@
+test case 1
+-46 
+test case 2
+225 
+test case 3
+8 
+test case 4
+-53 
+test case 5
+-218 
+test case 6
+-291 
+test case 7
+-72 
+test case 8
+-322 
+test case 9
+167 
+test case 10
+11 
+test case 11
+-225 
+test case 12
+218 
+test case 13
+18 
+test case 14
+-115 
+test case 15
+-465 
+test case 16
+150 
+test case 17
+-182 
+test case 18
+-20 
+test case 19
+-38 
+test case 20
+-57 
+test case 21
+162 
+test case 22
+222 
+test case 23
+12 
+test case 24
+-161 
+test case 25
+-102 
+test case 26
+85 
+test case 27
+-125 
+test case 28
+152 
+test case 29
+13 
+test case 30
+-351 
+test case 31
+-1 
+test case 32
+9 
+test case 33
+-31 
+test case 34
+-48 
+test case 35
+363 
+test case 36
+276 
+test case 37
+97 
+test case 38
+27 
+test case 39
+-44 
+test case 40
+-72 
+test case 41
+50 
+test case 42
+92 
+test case 43
+18 
+test case 44
+-15 
+test case 45
+49 
+test case 46
+-36 
+test case 47
+89 
+test case 48
+92 
+test case 49
+-104 
+test case 50
+21 
+test case 51
+100 
+test case 52
+32 
+test case 53
+-49 
+test case 54
+66 
+test case 55
+-97 
+test case 56
+25 
+test case 57
+29 
+test case 58
+110 
+test case 59
+-86 
+test case 60
+-85 
+test case 61
+358 
+test case 62
+4 
+test case 63
+-128 
+test case 64
+-390 
+test case 65
+27 
+test case 66
+-165 
+test case 67
+118 
+test case 68
+-20 
+test case 69
+20 
+test case 70
+111 
+test case 71
+110 
+test case 72
+194 
+test case 73
+-72 
+test case 74
+230 
+test case 75
+66 
+test case 76
+-198 
+test case 77
+226 
+test case 78
+2 
+test case 79
+165 
+test case 80
+405 
+test case 81
+96 
+test case 82
+299 
+test case 83
+-93 
+test case 84
+74 
+test case 85
+-33 
+test case 86
+-276 
+test case 87
+-67 
+test case 88
+-164 
+test case 89
+-92 
+test case 90
+-141 
+test case 91
+22 
+test case 92
+-191 
+test case 93
+-14 
+test case 94
+72 
+test case 95
+155 
+test case 96
+-15 
+test case 97
+-148 
+test case 98
+-20 
+test case 99
+118 
+test case 100
+-215 

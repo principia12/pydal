@@ -1,0 +1,6 @@
+__add__ test summary : 0/100
+__mul__ test summary : 0/100
+__sub__ test summary : 0/100
+tr test summary : 17/100
+det test summary : 16/100
+T test summary : 1/100

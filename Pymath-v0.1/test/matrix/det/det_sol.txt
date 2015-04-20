@@ -1,0 +1,200 @@
+test case 1
+-1864577956 
+test case 2
+75 
+test case 3
+-57927260 
+test case 4
+15464160 
+test case 5
+288601653 
+test case 6
+683851 
+test case 7
+-9685723 
+test case 8
+2595028 
+test case 9
+56 
+test case 10
+-2575620420 
+test case 11
+-9742803 
+test case 12
+2148905816 
+test case 13
+-81 
+test case 14
+19930282 
+test case 15
+7534705129 
+test case 16
+-16083556 
+test case 17
+3479739264 
+test case 18
+178480154 
+test case 19
+-577084 
+test case 20
+-146 
+test case 21
+-88 
+test case 22
+669936 
+test case 23
+112614 
+test case 24
+2796081057 
+test case 25
+-18224238 
+test case 26
+47 
+test case 27
+15068136 
+test case 28
+-53 
+test case 29
+106398968 
+test case 30
+15194842964 
+test case 31
+-123021410 
+test case 32
+-696 
+test case 33
+840961891 
+test case 34
+-12572874 
+test case 35
+37 
+test case 36
+493784 
+test case 37
+263876 
+test case 38
+2763015696 
+test case 39
+-10860 
+test case 40
+179065 
+test case 41
+5325612 
+test case 42
+-523 
+test case 43
+11698658136 
+test case 44
+-42892085 
+test case 45
+5167938284 
+test case 46
+4426975080 
+test case 47
+-529650 
+test case 48
+-795542 
+test case 49
+-461 
+test case 50
+-872919644 
+test case 51
+411257 
+test case 52
+-765 
+test case 53
+1419 
+test case 54
+-39 
+test case 55
+1825 
+test case 56
+10311534 
+test case 57
+342345 
+test case 58
+2508764465 
+test case 59
+-42866139 
+test case 60
+49096944 
+test case 61
+43 
+test case 62
+-7343903550 
+test case 63
+-15521 
+test case 64
+-113779 
+test case 65
+-687485 
+test case 66
+-2121203145 
+test case 67
+-23430316 
+test case 68
+723611 
+test case 69
+-1808 
+test case 70
+-5841750 
+test case 71
+-372850 
+test case 72
+-77 
+test case 73
+7419886908 
+test case 74
+-36 
+test case 75
+54 
+test case 76
+666908 
+test case 77
+17184343152 
+test case 78
+1374292360 
+test case 79
+-2098989 
+test case 80
+3357 
+test case 81
+106384 
+test case 82
+-51799650 
+test case 83
+-83 
+test case 84
+-30613266 
+test case 85
+-442926453 
+test case 86
+-296419 
+test case 87
+-45476432 
+test case 88
+242235 
+test case 89
+-15136077 
+test case 90
+1392 
+test case 91
+-72989440 
+test case 92
+-20 
+test case 93
+6085 
+test case 94
+-22807906 
+test case 95
+78 
+test case 96
+361290 
+test case 97
+-9495711 
+test case 98
+9561 
+test case 99
+-87 
+test case 100
+-1150831824 
