@@ -8,11 +8,7 @@
 * 토요일 오전마다 스터디를 진행
 * 교재 한빛미디어, '파이썬 라이브러리를 활용한 데이터 분석 Python for Data Analysis'
 
-## 사용방법
-
-* git clone으로 각자 로컬에 다운받아 사용한다.
-
-* ipynb 파일을 웹 브라우저에서 보는 방법
+## ipynb 파일을 웹 브라우저에서 보는 방법
     1. ipynb 파일을 클릭한다.
     2. 해당 url을 복사한다.
     3. http://nbviewer.python.org 로 이동한다.
