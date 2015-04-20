@@ -22,7 +22,7 @@
 ## Naming Rule
 
 * 각 챕터의 IPython notebook 파일
-    * ch챕터번호_챕터의 간략한 제목_발제자이름.ipynb
+    * ch챕터번호\_챕터의 간략한 제목\_발제자이름.ipynb
 * IPython notebook에 이미지를 사용했을 경우
     * images 폴더에 이미지를 저장하여 사용한다.
 * 연습할 수 있는 관련 파일을 업로드할 경우
